@@ -1,5 +1,5 @@
 class Url {
-  String baseUrl = 'https://api.nstack.in';
+  String baseUrl = 'https://api.nstack.in/v1/todos';
 
   String createNote = '/TodoController_create';
   String editNote = '/TodoController_findOne';
